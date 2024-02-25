@@ -1,5 +1,5 @@
 # Growtopia-Silvestras Cracked Proxy
-Features
+# Features
 [P] Visual Clothes & Effects Are Now Fully Visible To Other Proxy Users!
 Removed ADS (Advertisement background) on No-Weather Worlds;
 /mac Displays Your Current Mac Address;
