@@ -29,3 +29,7 @@ Added Skip Dialog On Telephone When Exchanging BGL!
 Added Show Visual Clothes To Proxy Users in /clothes!
 /switch -> Fast Account Switching
 /pfind [Item Name] -> Pathfinds to the nearest dropped [Item Name] in the world.
+
+
+
+![image](https://github.com/Evorrtez/Growtopia-Proxy/assets/161077538/f66f2b5d-cf32-46f7-9891-495cf6befc32)
